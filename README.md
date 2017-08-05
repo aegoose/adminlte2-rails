@@ -11,8 +11,10 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'adminlte2-rails'
+# gem 'adminlte2-rails'
+gem 'adminlte2-rails', git:'https://github.com/aegoose/adminlte2-rails'
 ```
+
 
 And then execute:
 
