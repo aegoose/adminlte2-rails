@@ -29,6 +29,12 @@ Then, generate the default template:
 
     $ bin/rails generate admin_lte2
 
+Notice: 
+```ruby
+# New version is depended with 
+gem "bootstrap-sass", "~> 3.3.6"
+```
+
 # Plugins
 
 ## Add a new plugins
